@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NextLesstion</string>
+    <string name="nhietdo">Nhiệt độ:</string>
+    <string name="toado">Tọa độ:</string>
+    <string name="apsuat">Áp xuất:</string>
+    <string name="tocdogio">Tốc độ gió:</string>
+    <string name="may">Mây:</string>
+    <string name="title">THỜI TIẾT</string>
+    <string name="ok">Gửi</string>
+    <string name="a"> </string>
+</resources>
